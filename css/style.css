@@ -24,3 +24,8 @@ h1:hover{
 h2{
     color:greenyellow;
 }
+
+a{
+    text-decoration: none;
+    margin: 30px;
+}
