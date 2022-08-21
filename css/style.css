@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 
 }
 
@@ -12,4 +13,10 @@ h1{
 p{
     color:rgb(175, 127, 127);
     margin-top: 75px;
+}
+
+h1:hover{
+    color:cadetblue;
+    text-decoration: underline;
+    transition: .3s;
 }
